@@ -3463,6 +3463,11 @@ file-loader@^3.0.1:
     loader-utils "^1.0.2"
     schema-utils "^1.0.0"
 
+file-saver@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/file-saver/-/file-saver-2.0.2.tgz#06d6e728a9ea2df2cce2f8d9e84dfcdc338ec17a"
+  integrity sha512-Wz3c3XQ5xroCxd1G8b7yL0Ehkf0TC9oYC6buPFkNnU9EnaPlifeAFCyCh+iewXTyFRcg0a6j3J7FmJsIhlhBdw==
+
 filesize@^3.6.1:
   version "3.6.1"
   resolved "https://registry.yarnpkg.com/filesize/-/filesize-3.6.1.tgz#090bb3ee01b6f801a8a8be99d31710b3422bb317"
@@ -5808,6 +5813,11 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
+
+piexifjs@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/piexifjs/-/piexifjs-1.0.4.tgz#6f61e85511fd57eb75591cfb7290688e0abab3fd"
+  integrity sha512-va6FOuTVWC2bbiC4WiKus8scuAWoqgM4XwnmtttKe3YkwakyqTvsYMyctkTZv9Ra/uK7EdjTlyIA2U8rSDuwOw==
 
 pify@^2.0.0:
   version "2.3.0"
